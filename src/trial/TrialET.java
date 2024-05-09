@@ -24,6 +24,8 @@ public class TrialET {
        
        jframewr.setLayout(null);
        jframewr.setVisible(true);
+       
+       System.out.print("HELLO");
    }
        
 }
